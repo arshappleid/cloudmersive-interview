@@ -1,3 +1,5 @@
+I will delete this repo soon.
+
 ## Repo Structure
 ```
 /{project-name}
